@@ -14,6 +14,7 @@ But of course, they're written in C, using the Zephyr SDK APIs.
 
 This repository contains the same examples, converted to Swift.  
 My goal was to not have to write any custom C code to perform the same functionality as the original examples.  
+When I created custom Swift types, they usually implement the bare minimum for that specific example.  
 I have not tried to create a higher level abstraction Swift API (e.g. to offer a Core Bluetooth compatible API), this might be something I could tackle at a later stage.
 
 Each example contains its own README file, describing some details about the specific example but considers that your have also read the information about the original Nordic example.  
