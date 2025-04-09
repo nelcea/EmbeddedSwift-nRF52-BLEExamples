@@ -15,8 +15,8 @@ The custom dynamic information that we want to advertise is stored in a custom M
 
 Manufacturer data is a defined type in BLE, which we support by adding the manufacturerData case to the BTDataTypes enum.
 
-A new mutating `update` method is added to the BLEAdvertisement struct, so the advertised data can be changed.  
-This means the `adsd` property becomes a `var` instead of a `let`.  
+A new mutating update method is added to the BLEAdvertisement struct, so the advertised data can be changed.  
+This means the adsd property becomes a var instead of a let.  
 Note that memory is correctly managed, when a new instance of AdvertisementAndScanResponse is created during the update, 
 the previous one is de-initialized (thanks to its non Copyable nature).
 

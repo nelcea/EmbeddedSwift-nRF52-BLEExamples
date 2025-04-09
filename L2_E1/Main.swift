@@ -33,7 +33,7 @@ struct BLE {
 
 // MARK: Advertisement data
 
-/// Encapsuate Advertisement and ScanResponse data in a non Copyable struct
+/// Encapsulate Advertisement and ScanResponse data in a non Copyable struct
 /// makes it easier to manage memory for this data
 struct AdvertisementAndScanResponse: ~Copyable {
   private var advertisementData: [BTData]

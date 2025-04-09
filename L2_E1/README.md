@@ -12,7 +12,7 @@ Configure the project to use Bluetooth, updating prj.conf with
 CONFIG_BT=y
 CONFIG_BT_DEVICE_NAME="SwiftBeacon"
 ```
-This also defines the advertized device name in a constant that can be picked up from the code.
+This also defines the advertised device name in a constant that can be picked up from the code.
 
 We'll also need access to the Bluetooth API from the code, so update BridgingHeader.h, adding
 ```C
