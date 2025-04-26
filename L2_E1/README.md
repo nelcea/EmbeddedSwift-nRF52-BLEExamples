@@ -1,7 +1,7 @@
 # Lesson 2 Exercise 1
 
 [Original lesson](https://academy.nordicsemi.com/courses/bluetooth-low-energy-fundamentals/lessons/lesson-2-bluetooth-le-advertising/topic/blefund-lesson-2-exercise-1/)  
-[Original code](https://github.com/NordicDeveloperAcademy/bt-fund/tree/main/v2.9.0-v2.7.0/l2/l2_e1_sol)  
+[Original code](https://github.com/NordicDeveloperAcademy/bt-fund/tree/v2.9.0-v2.7.0/l2/l2_e1_sol)  
 
 This example sets up the BLE stack and perform a non-connectable advertising, having the device behave as a beacon.
 

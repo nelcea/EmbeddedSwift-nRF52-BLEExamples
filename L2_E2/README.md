@@ -1,7 +1,7 @@
 # Lesson 2 Exercise 2
 
 [Original lesson](https://academy.nordicsemi.com/courses/bluetooth-low-energy-fundamentals/lessons/lesson-2-bluetooth-le-advertising/topic/blefund-lesson-2-exercise-2/)  
-[Original code](https://github.com/NordicDeveloperAcademy/bt-fund/tree/main/v2.9.0-v2.7.0/l2/l2_e2_sol)  
+[Original code](https://github.com/NordicDeveloperAcademy/bt-fund/tree/v2.9.0-v2.7.0/l2/l2_e2_sol)  
 
 This examples builds on the previous one, manually setting the advertising parameters and dynamically updating the advertised data.  
 The original example uses a button to increment some value within the advertised information. 

@@ -1,7 +1,7 @@
 # Lesson 2 Exercise 3
 
 [Original lesson](https://academy.nordicsemi.com/courses/bluetooth-low-energy-fundamentals/lessons/lesson-2-bluetooth-le-advertising/topic/blefund-lesson-2-exercise-3/)  
-[Original code](https://github.com/NordicDeveloperAcademy/bt-fund/tree/main/v2.9.0-v2.7.0/l2/l2_e3_sol)  
+[Original code](https://github.com/NordicDeveloperAcademy/bt-fund/tree/v2.9.0-v2.7.0/l2/l2_e3_sol)  
 
 This examples switches to a connectable advertising in which it exposes a service UUID.  
 It also shows how to define a specific BLE address for the peripheral.
